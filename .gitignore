@@ -2,6 +2,7 @@
 data/raw/*.csv
 data/processed/*.csv
 data/processed/*.pkl
+data/processed/*.joblib
 
 # Models
 models/*.pkl
