@@ -68,6 +68,9 @@ def load_artifact(filename: str, split_dir: str = "data/artifacts") -> Any:
     return joblib.load(project_root() / split_dir / filename)
 
 
+def load_model(filename: str, model_dir: str = "models") -> Any:
+    return joblib.load(project_root() / model_dir / filename)
+
 def load_splits(
     split_dir: str = "data/processed",
     scaled: bool = True,
