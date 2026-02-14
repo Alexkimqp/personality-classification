@@ -1,12 +1,12 @@
 # Data 
 data/raw/*.csv
-data/processed/*.csv
+# data/processed/*.csv
 data/processed/*.pkl
 data/processed/*.joblib
 
 # Models
-models/*.pkl
-models/*.joblib
+# models/*.pkl
+# models/*.joblib
 
 # Python
 __pycache__/
