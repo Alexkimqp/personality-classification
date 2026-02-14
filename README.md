@@ -34,6 +34,6 @@ EDA смотреть в Notebook 01_eda.
 
 ## Демо:
 
-![Демо бота](docs//bot_demo_1.jpg)
-![Демо бота](docs//bot_demo_2.jpg)
+<img src="docs/bot_demo_1.png" width="25%">
+<img src="docs/bot_demo_2.png" width="25%">
 
