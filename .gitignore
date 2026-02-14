@@ -33,3 +33,6 @@ Thumbs.db
 .env
 venv/
 env/
+
+# Reports (generated)
+reports/figures/
